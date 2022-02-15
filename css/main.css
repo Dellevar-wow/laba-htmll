@@ -1,0 +1,25 @@
+h1, h2 {
+    text-align: center;
+}
+header ul{
+    padding: 0;
+}
+header li {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.feedback {
+    text-align: right;
+}
+footer ul{
+    text-align: center;
+    padding: 0;
+}
+hr {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
